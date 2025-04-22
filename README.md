@@ -1,2 +1,0 @@
-# RAG
-Basic RAG 
